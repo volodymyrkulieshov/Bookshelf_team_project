@@ -1,12 +1,12 @@
 {
-  "name": "DreamTeam",
+  "name": "Bookshelf_team_project",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "start": "vite",
-    "build": "vite build --base=/DreamTeam/",
+    "build": "vite build --base=/Bookshelf_team_project/",
     "preview": "vite preview"
   },
   "devDependencies": {
